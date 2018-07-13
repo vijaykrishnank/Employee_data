@@ -1,6 +1,6 @@
 [
   {
-    “employee”: "Victoria Cantrell”,
+    "employee": "Victoria Cantrell",
     "approvedby": "Clay Jenson",
     "department": "Sales",
     "status": "Incomplete",
@@ -9,58 +9,9 @@
   }, {
     "employee": "Pearl Crosby",
     "approvedby": "Brandon Clarke",
-    "department”: “Marketing”,
-    "status”: “Submitted”,
-    "hireDate”: “2014/10/08”,
-    "submittedby”: “Heath Ledger”
-  }, {
-    “employee”: "Colette Foley”,
-    "approvedby”: “Brandon Clarke”,
-    "department”: “Risk”,
-    "status": "Incomplete",
-    "hireDate”: “2015/07/19”,
-    "submittedby”: “Katherine Pierce”
-  }, {
-    “employee”: "Anastasia Shaffer”,
-    "approvedby”: “Walter White”,
-    "department”: “Advisory”,
-    "status": "Incomplete",
-    "hireDate”: “2015/04/20”,
-    "submittedby”: “Baron Kat”
-  }, {
-    "employee”: “Gabriel Castro”,
-    "approvedby”: “Clay Jenson”,
-    "department”: “Risk”,
-    "status": "Incomplete",
-    "hireDate”: “2015/03/04”,
-    "submittedby”: “Katherine Pierce”
-  }, {
-    “employee": “Cherokee Ware”,
-    "approvedby”: “Walter White”,
-    "department”: “Sales”,
-    "status”: “Approved”,
-    "hireDate”: “2015/06/17”,
-    "submittedby”: “Tom Hal”
-  }, {
-    “employee": “Barry Moss”,
-    "approvedby”: “Kate Moss”,
-    "department”: “Marketing”,
-    "status”: “Submitted”,
-    "hireDate”: “2015/08/13”,
-    "submittedby”: “Tom Hal”
-  }, {
-    “employee": “Maryam Tucker”,
-    "approvedby”: “Kate Moss”,
-    "department”: “Advisory”,
-    "status": "Incomplete",
-    "hireDate”: “2014/10/02”,
-    "submittedby”: “Gareth Bale”
-  }, {
-    “employee": “Constance Clayton”,
-    "approvedby”: “Clay Jenson”,
-    "department”: “Sales”,
-    "status": "Incomplete",
-    "hireDate”: “2015/08/01”,
-    "submittedby”: “Gareth Bale”
+    "department": "Marketing",
+    "status": "Submitted",
+    "hireDate": "2014/10/08",
+    "submittedby": "Heath Ledger"
   }
 ]
